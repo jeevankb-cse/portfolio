@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8421cc95.css",
+    "main.js": "/portfolio/static/js/main.a0685abc.js",
+    "static/js/453.d30256a2.chunk.js": "/portfolio/static/js/453.d30256a2.chunk.js",
+    "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/diseasedetection.jpg": "/portfolio/static/media/diseasedetection.b8add78d0275b9242b1f.jpg",
+    "static/media/jeevan.jpg": "/portfolio/static/media/jeevan.81bb41d29b4f4ee78670.jpg",
+    "static/media/cureai.jpg": "/portfolio/static/media/cureai.60820b10cf5d96b40b30.jpg",
+    "static/media/weathergpt.jpg": "/portfolio/static/media/weathergpt.b304f5d3f7c3c34db587.jpg",
+    "static/media/voxveritas.jpg": "/portfolio/static/media/voxveritas.9c95aec16957db188a50.jpg",
+    "static/media/scamshield.jpg": "/portfolio/static/media/scamshield.09c7741f1967a1abf828.jpg",
+    "static/media/smartvoting.webp": "/portfolio/static/media/smartvoting.eebb1c6939de2f18f186.webp",
+    "index.html": "/portfolio/index.html",
+    "main.8421cc95.css.map": "/portfolio/static/css/main.8421cc95.css.map",
+    "main.a0685abc.js.map": "/portfolio/static/js/main.a0685abc.js.map",
+    "453.d30256a2.chunk.js.map": "/portfolio/static/js/453.d30256a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8421cc95.css",
+    "static/js/main.a0685abc.js"
+  ]
+}
