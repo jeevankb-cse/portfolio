@@ -9,6 +9,7 @@ import '../assets/styles/Timeline.scss'
 function Timeline() {
   return (
     <div id="history">
+      <div id="experience" style={{ position: 'relative', top: '-70px' }} />
       <div className="items-container">
         <h1>Experience & Education</h1>
         <VerticalTimeline>
@@ -42,6 +43,7 @@ function Timeline() {
             </p>
           </VerticalTimelineElement>
 
+          <div id="honors" style={{ position: 'relative', top: '-90px' }} />
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="2024 - 2026"
