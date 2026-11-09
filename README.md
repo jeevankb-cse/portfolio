@@ -15,8 +15,7 @@
 
 <p align="center">
   <a href="https://jeevankb-cse.github.io/portfolio/">
-    <img src="https://raw.githubusercontent.com/jeevankb-cse/portfolio/main/src/assets/images/<img width="1900" height="875" alt="Screenshot 2026-11-09 210704" src="https://github.com/user-attachments/assets/b2658f27-5d21-42ef-9f92-16e0a2abf942" />
-" alt="Jeevan K B - Portfolio Preview" width="100%" />
+    <img src="https://raw.githubusercontent.com/jeevankb-cse/portfolio/main/src/assets/images/screenshot.png" alt="Jeevan K B - Portfolio Preview" width="100%" />
   </a>
 </p>
 
