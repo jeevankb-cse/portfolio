@@ -13,6 +13,12 @@
 
 🌐 **Live Website:** [https://jeevankb-cse.github.io/portfolio/](https://jeevankb-cse.github.io/portfolio/)
 
+<p align="center">
+  <a href="https://jeevankb-cse.github.io/portfolio/">
+    <img src="./src/assets/images/screenshot.png" alt="Jeevan K B Portfolio Preview" width="100%" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
