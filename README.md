@@ -13,6 +13,12 @@
 
 🌐 **Live Website:** [https://jeevankb-cse.github.io/portfolio/](https://jeevankb-cse.github.io/portfolio/)
 
+<p align="center">
+  <a href="https://jeevankb-cse.github.io/portfolio/">
+    <img src="https://raw.githubusercontent.com/jeevankb-cse/portfolio/main/src/assets/images/screenshot.png" alt="Jeevan K B - Portfolio Preview" width="100%" />
+  </a>
+</p>
+
 ## 👨‍💻 About Me
 
 - 🎓 **Education:** B.E. in Computer Science & Engineering (2023 – Present) @ **City Engineering College, Bengaluru** (CGPA: **8.48**)
