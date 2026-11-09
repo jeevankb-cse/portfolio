@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.feb6355f.css",
-    "main.js": "/portfolio/static/js/main.a0685abc.js",
+    "main.js": "/portfolio/static/js/main.4e362c45.js",
     "static/js/453.d30256a2.chunk.js": "/portfolio/static/js/453.d30256a2.chunk.js",
+    "static/media/jeevan.jpg": "/portfolio/static/media/jeevan.5cb4c7d9bb3f759191b1.jpg",
     "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/diseasedetection.jpg": "/portfolio/static/media/diseasedetection.b8add78d0275b9242b1f.jpg",
-    "static/media/jeevan.jpg": "/portfolio/static/media/jeevan.81bb41d29b4f4ee78670.jpg",
     "static/media/cureai.jpg": "/portfolio/static/media/cureai.60820b10cf5d96b40b30.jpg",
     "static/media/weathergpt.jpg": "/portfolio/static/media/weathergpt.b304f5d3f7c3c34db587.jpg",
     "static/media/voxveritas.jpg": "/portfolio/static/media/voxveritas.9c95aec16957db188a50.jpg",
@@ -14,11 +14,11 @@
     "static/media/smartvoting.webp": "/portfolio/static/media/smartvoting.eebb1c6939de2f18f186.webp",
     "index.html": "/portfolio/index.html",
     "main.feb6355f.css.map": "/portfolio/static/css/main.feb6355f.css.map",
-    "main.a0685abc.js.map": "/portfolio/static/js/main.a0685abc.js.map",
+    "main.4e362c45.js.map": "/portfolio/static/js/main.4e362c45.js.map",
     "453.d30256a2.chunk.js.map": "/portfolio/static/js/453.d30256a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.feb6355f.css",
-    "static/js/main.a0685abc.js"
+    "static/js/main.4e362c45.js"
   ]
 }
